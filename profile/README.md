@@ -22,5 +22,5 @@ We are using `Apache License 2.0` as our default License, see <https://www.apach
 > **Note**
 > The following links represent our GitHub Organization defaults, it might be that certain projects do have their own versions of those files.
 
-- [Code of Conduct](.github/blob/main/CODE_OF_CONDUCT.md)
-- [Security Policy](.github/blob/main/SECURITY.md)
+- [Code of Conduct](https://github.com/Dynatrace/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Security Policy](https://github.com/Dynatrace/.github/blob/main/SECURITY.md)
