@@ -1,4 +1,4 @@
-# Dynatrace - modern cloud done right
+# Dynatrace
 
 This organization is part of the Dynatrace Open Source Initiative.
 Projects are maintained by Dynatrace but if not stated differently are not officially supported.
