@@ -6,7 +6,7 @@ This page borrows parts of its contents from <https://kubernetes.io/security/>
 
 We are extremely grateful for security researchers and users that report vulnerabilities to the Dynatrace Open Source Community. All reports are thoroughly investigated by a set of community members.
 
-To make a report, submit your vulnerability to <opensource@dynatrace.com>. This allows triage and handling of the vulnerability within an appropriate timeframe and best effort.
+To make a report, submit your vulnerability to <security@dynatrace.com>. This allows triage and handling of the vulnerability within an appropriate timeframe and best effort.
 If you would like to use encryption for your message, please first reach out to request a PGP key.
 
 ### When Should I Report a Vulnerability?
