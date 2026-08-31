@@ -71,10 +71,20 @@ testing, AI observability, Kubernetes, and application security.
 
 ### More hands-on demos
 
-The `Dynatrace` organization also contains additional demonstration repositories
-that complement the ObsLab exercises.
+In addition to the ObsLab exercises above, the `Dynatrace` organization contains several demonstration applications for different observability scenarios.
 
-[Explore all Dynatrace repositories](https://github.com/Dynatrace?tab=repositories)
+Use the table below to choose the demo environment that best fits your needs.
+
+| Repository | Purpose | Best for | When to use |
+| --- | --- | --- | --- |
+| [`easytrade`](https://github.com/Dynatrace/easytrade) | Modern microservices-based demo application for showcasing Dynatrace capabilities | Product demonstrations, workshops, enablement, and end-to-end observability scenarios | Start here for a general-purpose Dynatrace demo environment |
+| [`easyTravel-Docker`](https://github.com/Dynatrace/easyTravel-Docker) | Dockerized version of the established easyTravel sample application | Existing easyTravel scenarios, legacy workshop material, and compatibility demonstrations | Use when existing content or integrations specifically depend on easyTravel |
+| [`opentelemetry-demo`](https://github.com/Dynatrace/opentelemetry-demo) | OpenTelemetry-based demo environment | OpenTelemetry education, instrumentation, interoperability, and standards-based observability scenarios | Use when OpenTelemetry is the primary focus of the demonstration |
+| [`obslab-llm-observability`](https://github.com/Dynatrace/obslab-llm-observability) | Hands-on application for exploring LLM observability | Generative AI, LLM observability, workshops, and experimentation | Use when the scenario specifically focuses on LLM or generative AI observability |
+
+These demo environments are complementary rather than interchangeable. When creating a new demo scenario, extend an existing environment where practical rather than creating another standalone demo application.
+
+[Explore all Dynatrace repositories](https://github.com/orgs/Dynatrace/repositories)
 
 ## Important links
 
