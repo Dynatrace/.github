@@ -10,7 +10,7 @@ This is an **internal contribution model inspired by open source**, not an invit
 
 ## Make a change
 1. Create a branch; do not commit directly to the protected default branch.
-2. Follow the [lab metadata template](templates/lab-metadata.yml) and [author checklist](docs/lab-author-checklist.md).
+2. Follow the [Lab metadata template](templates/lab-metadata.yml) and [Author checklist](docs/lab-author-checklist.md).
 3. Keep content and implementation in version control. Future UI authoring should write to a branch and use the same review gates.
 4. Run available framework checks and document any tests that cannot yet run automatically.
 5. Open a pull request using the PR template, link the issue, and request reviews.
